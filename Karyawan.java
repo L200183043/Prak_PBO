@@ -28,9 +28,9 @@ public class Karyawan {
 	    }
 	    public static void main(String[] args) {
 	        Karyawan karyawan = new Karyawan();
-	        karyawan.tampilkanNama("Mahardhika");
-	        karyawan.tampilkanJabatan("Sekretaris");
-	        karyawan.tampilkanAlamat("Purwakarta");
+	        karyawan.tampilkanNama("Aria");
+	        karyawan.tampilkanJabatan("Pengusaha");
+	        karyawan.tampilkanAlamat("POntianak");
 	        karyawan.tampilkanGaji(10000000);
 	    }
 	}
