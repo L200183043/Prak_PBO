@@ -28,9 +28,9 @@ public class Mahasiswa {
 	    }
 	    public static void main(String[] args) {
 	        Mahasiswa mahasiswa = new Mahasiswa();
-	        mahasiswa.tampilkanNama("Mahardhika");
-	        mahasiswa.tampilkanNim("L200184134");
-	        mahasiswa.tampilkanAlamat("Purwakarta");
+	        mahasiswa.tampilkanNama("Aria");
+	        mahasiswa.tampilkanNim("L200183043");
+	        mahasiswa.tampilkanAlamat("Pontianak");
 	        mahasiswa.tampilkanSemester(3);
 	    }
 	}
