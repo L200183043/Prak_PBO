@@ -25,8 +25,8 @@ public class Dosen {
 	
 	    public static void main(String[] args) {
 	        Dosen dosen = new Dosen();
-	        dosen.tampilkanNama("Mahardhika");
-	        dosen.tampilkanTglLahir("12 Agustus 2000");
+	        dosen.tampilkanNama("Aria");
+	        dosen.tampilkanTglLahir("20 November 1999");
 	        dosen.tampilkanNik(89023);
 	    }
 	}
